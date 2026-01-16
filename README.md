@@ -67,7 +67,7 @@ Example: `war@gamedata/server.cfg dom@gamedata/server.cfg conf@gamedata/server.c
 set mv_enable "1"
 set mv_time "20"
 set mv_minplayers "4"
-set mv_gametypes "war@gamedata/server_war.cfg dom@gamedata/server_dom.cfg"
+set mv_gametypes "war@gamedata/server.cfg dom@gamedata/server.cfg"
 set mv_maps "mp_frontier mp_metropolis mp_fallen mp_dome_iw"
 set mv_socialname "Discord"
 set mv_sociallink "discord.gg/yourserver"
